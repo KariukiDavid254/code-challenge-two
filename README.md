@@ -1,6 +1,6 @@
 # code-challenge-two
 ### LIVE LINK
-Visit: code-challenge-two-owlx.vercel.app
+Visit: https://code-challenge-two-owlx.vercel.app/
 
 # Getting Started with Create React App
 
